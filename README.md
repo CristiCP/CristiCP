@@ -1,4 +1,4 @@
-![photo]()
+![photo](https://github.com/CristiCP/PopanIosifCristian/blob/main/background.png)
 
 # About me
 I am a collaborative person who genuinely enjoys being part of a team. I am eager to continue learning and growing as a software engineer. I am confident that my software development skills and ambition will make me a valuable asset to any team. I bring an understanding of software design patterns, as well as the ability to write efficient code. I am also ready to receive advice from others to improve my work.
