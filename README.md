@@ -24,3 +24,12 @@ I am a collaborative person who genuinely enjoys being part of a team. I am eage
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+
+## Football Luck Builder
+![FLB](https://play-lh.googleusercontent.com/3IhIdXXYH_CT7pmyjPYLDuk3faMmQaqga-Jce9_KcogdGodUHQ-soxNu50hmrNxgzdIu=w240-h480-rw)
+
+[Football Luck Builder](<https://play.google.com/store/apps/details?id=org.qtproject.footballluckbuilder&hl=ro&gl=US>) – is an Android game I developed using C++ and Qt Designer. It stands as my most notable extracurricular project, merging my passion for application development and football.
+
+Available on : 
+
+![Play Store](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
