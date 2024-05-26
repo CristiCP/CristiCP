@@ -25,7 +25,6 @@ I am a collaborative person who genuinely enjoys being part of a team. I am eage
 > Databases
 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ## Football Luck Builder
 ![FLB](https://play-lh.googleusercontent.com/3IhIdXXYH_CT7pmyjPYLDuk3faMmQaqga-Jce9_KcogdGodUHQ-soxNu50hmrNxgzdIu=w240-h480-rw)
